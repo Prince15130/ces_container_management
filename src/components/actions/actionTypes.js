@@ -1,0 +1,5 @@
+export const ADD_CONTAINER = "ADD_CONTAINER";
+export const REMOVE_CONTAINER = "REMOVE_CONTAINER";
+export const SUB_QUANTITY = "SUB_QUANTITY";
+export const ADD_QUANTITY = "ADD_QUANTITY";
+export const CHOOSE_VESSEL = "CHOOSE_VESSEL";
